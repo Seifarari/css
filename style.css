@@ -1,0 +1,10 @@
+ nav {
+        display: inline;
+    }
+    body {
+      font-family: 'roboto';
+  }
+  h1 {
+    color: blue; 
+    border: brown;
+  }
